@@ -1,8 +1,10 @@
 # Adidas Sales Analysis
 ## Task
 To perform a comprehensive sales performance on Adidas' US retail dataset in order to uncover actionable insights related to product sales, profitability, regional trends, sales methods, and inventory planning
+## Dataset used
+the dataset used for this project can be accessed [here](https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/Adidas%20Sales%20Analysis/Adidas%20US%20Sales%20Datasets.xlsx)
 
-## Scope of Analysis:
+## Scope of [Analysis](https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/Adidas%20Sales%20Analysis/Adidas%20sales%20analysis.ipynb):
 **1. Performance Analysis**
 - Calculated total revenue by product category to identify top-selling segments.
 - Compared revenue generated through In-store, Outlet, and Online sales methods.
