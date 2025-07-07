@@ -145,7 +145,33 @@ SELECT *
 FROM layoffs
 WHERE company = 'Airbnb';
 
--- are there still null industry ?
+--- checking if it has populated the indusrty column
 SELECT *
-FROM layoffs 
-WHERE industry = 'Bally's Interactive';
+FROM layoffs
+WHERE company = 'Airbnb';
+
+-- I discovered that if there are no total_laid off or percenatge laid, then that row might be useless during EDA
+SELECT * 
+FROM layoffs
+WHERE total_laid_off IS NULL
+AND percentage_laid_off IS NULL;
+
+-- Deleting unecesary rows
+DELETE 
+FROM layoffs
+WHERE total_laid_off IS NULL
+AND percentage_laid_off IS NULL;
+
+--checking again
+SELECT * 
+FROM layoffs
+WHERE total_laid_off IS NULL
+AND percentage_laid_off IS NULL;
+
+--Dropping unecessary columns
+ALTER TABLE layoffs
+DROP COLUMN row_number;
+
+SELECT *
+FROM layoffs;
+
