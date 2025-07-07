@@ -1,5 +1,5 @@
 # SQL Data Cleaning Project
-I came across this data cleaning project online and decided to give it a try to sharpen my SQL skills. Though I initially faced some technical hurdles, I was determined to make it work—and I learned a lot in the process.
+I came across this data cleaning project online and decided to give it a try to sharpen my SQL skills. Though I initially faced some technical hurdles, I was determined to make it work and I learned a lot in the process.
 The goal was to clean and prepare a dataset of global layoffs to make it analysis-ready. This project made me realize how **important it is to clean data before diving into Exploratory Data Analysis (EDA)**. Working with messy or inconsistent data can lead to wrong insights and poor business decisions.
 
 ## ⚙️ Tools & Environment
@@ -49,7 +49,7 @@ Used `ROW_NUMBER()` with a `PARTITION BY` clause to identify duplicate rows base
 
 * **PostgreSQL syntax** is slightly different from MySQL. I had to adjust my approach several times due to syntax limitations, especially with `JOIN` updates and CTE deletions.
 * **Data cleaning** is not just a step—it’s a mindset. It requires both attention to detail and a deep understanding of the dataset.
-* I now appreciate the **importance of clean data**. Without it, any form of analysis—no matter how advanced—can be misleading.
+* I now appreciate the **importance of clean data**. Without it, any form of analysis can be misleading, no matter how advanced it is.
 
 ---
 
@@ -68,7 +68,6 @@ This project is a great demonstration of my **SQL data wrangling skills**, **pro
 
 If you’re a hiring manager or team lead, I’d love to bring this same energy and mindset to your team.
 
-Let’s build something clean and powerful together. 🚀
+Let’s build something clean and powerful together.
 
----
 
