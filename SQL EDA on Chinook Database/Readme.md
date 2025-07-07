@@ -11,11 +11,11 @@ Using **SQL queries**, I explored various aspects of a music store's database in
 
 ## Resources
 
-* **Database Used:** [Chinook SQLite Database]((https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/SQL%20EDA%20on%20Chinook%20Database/Chinook_dataset.sql))
+* **Database Used:** [Chinook SQLite Database](https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/SQL%20EDA%20on%20Chinook%20Database/Chinook_dataset.sql)
 
   > The Chinook database is a sample music store database. It mimics a digital media store with information on artists, albums, media types, customers, employees, and sales.
 
-* **SQL Query File:** [`eda_queries.sql`](./eda_queries.sql)
+* **SQL Query File:** [`Chinook_QueryCodes.sql`](https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/SQL%20EDA%20on%20Chinook%20Database/Chinook_QueryCodes.sql)
 
   > This file contains all the SQL queries used in this project, each accompanied by a commented question or insight.
 
@@ -120,6 +120,6 @@ Answering such questions is key to driving business value, optimizing marketing 
 ## How to Use
 
 1. Download or clone this repo.
-2. Open the `Chinook.sqlite` database in your preferred SQL IDE.
-3. Run the queries inside `eda_queries.sql` to explore the data.
+2. Open the `Chinook.dataset.sql` database in your preferred SQL IDE.
+3. Run the queries inside `Chinook_QueryCodes.sql` to explore the data.
 4. Modify queries or extend analysis as needed for deeper exploration.
