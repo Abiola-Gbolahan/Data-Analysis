@@ -11,7 +11,7 @@ Using **SQL queries**, I explored various aspects of a music store's database in
 
 ## Resources
 
-* **Database Used:** [Chinook SQLite Database](w)
+* **Database Used:** [Chinook SQLite Database]((https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/SQL%20EDA%20on%20Chinook%20Database/Chinook_dataset.sql))
 
   > The Chinook database is a sample music store database. It mimics a digital media store with information on artists, albums, media types, customers, employees, and sales.
 
