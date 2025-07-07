@@ -59,11 +59,10 @@ Used `ROW_NUMBER()` with a `PARTITION BY` clause to identify duplicate rows base
 * 🧼 [Cleaned Dataset](#)
 * 🧾 [Final SQL Cleaning Query](#)
 
-*(Please upload these files to your GitHub and replace the `#` with actual links)*
 
 ---
 
-## 📣 Final Thoughts
+## my Final Thoughts
 
 This project is a great demonstration of my **SQL data wrangling skills**, **problem-solving mindset**, and **adaptability**. I faced real-world challenges and tackled them creatively, using both tools and community resources to reach my goal.
 
@@ -73,4 +72,3 @@ Let’s build something clean and powerful together. 🚀
 
 ---
 
-Let me know if you'd like me to help format or push this to your GitHub `README.md` or add visuals like before-and-after tables!
