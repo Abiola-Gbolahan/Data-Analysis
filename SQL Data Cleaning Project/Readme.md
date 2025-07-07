@@ -2,20 +2,20 @@
 I came across this data cleaning project online and decided to give it a try to sharpen my SQL skills. Though I initially faced some technical hurdles, I was determined to make it work and I learned a lot in the process.
 The goal was to clean and prepare a dataset of global layoffs to make it analysis-ready. This project made me realize how **important it is to clean data before diving into Exploratory Data Analysis (EDA)**. Working with messy or inconsistent data can lead to wrong insights and poor business decisions.
 
-## ⚙️ Tools & Environment
+## Tools & Environment
 * **Database**: PostgreSQL (PGAdmin)
 * **Data Source**: CSV format (converted for compatibility)
 * **Assistance**: ChatGPT (for converting JSON to SQL insert statements)
 
 ---
 
-## 📁 Dataset Import Challenges
+## Dataset Import Challenges
 
 Initially, I struggled to import the raw CSV file directly into PostgreSQL. The import kept failing, so I converted the CSV to JSON, then generated SQL insert statements using ChatGPT. This workaround allowed me to populate the database successfully.
 
 ---
 
-## 🧽 Cleaning Tasks Performed
+## Cleaning Tasks Performed
 
 I documented and commented every part of the query to make it beginner-friendly and easy to follow. Below are the key steps I took in cleaning the data:
 
@@ -45,24 +45,24 @@ Used `ROW_NUMBER()` with a `PARTITION BY` clause to identify duplicate rows base
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 * **PostgreSQL syntax** is slightly different from MySQL. I had to adjust my approach several times due to syntax limitations, especially with `JOIN` updates and CTE deletions.
-* **Data cleaning** is not just a step—it’s a mindset. It requires both attention to detail and a deep understanding of the dataset.
+* **Data cleaning** is not just a step, it’s a mindset. It requires both attention to detail and a deep understanding of the dataset.
 * I now appreciate the **importance of clean data**. Without it, any form of analysis can be misleading, no matter how advanced it is.
 
 ---
 
-## 🔗 Resources
+## Resources
 
-* 📄 [Raw Dataset](https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/SQL%20Data%20Cleaning%20Project/world_layoffs.csv)
-* 🧼 [Cleaned Dataset](https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/SQL%20Data%20Cleaning%20Project/cleaned%20data.csv)
-* 🧾 [Final SQL Cleaning Query](#)
+* [Raw Dataset](https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/SQL%20Data%20Cleaning%20Project/world_layoffs.csv)
+* [Cleaned Dataset](https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/SQL%20Data%20Cleaning%20Project/cleaned%20data.csv)
+* [Final SQL Cleaning Query](https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/SQL%20Data%20Cleaning%20Project/Worldlayoff_query.sql)
 
 
 ---
 
-## my Final Thoughts
+## My Final Thoughts
 
 This project is a great demonstration of my **SQL data wrangling skills**, **problem-solving mindset**, and **adaptability**. I faced real-world challenges and tackled them creatively, using both tools and community resources to reach my goal.
 
