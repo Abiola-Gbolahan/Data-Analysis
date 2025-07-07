@@ -12,7 +12,7 @@ The projects in this repository showcase my data analysis techniques, data visua
 - Data visualization
 - Data Analysisi (EDA)
 - Data wrangling
-- Machine learning models (if applicable)
+- [Machine learning models (if applicable)] (https://github.com/Abiola-Gbolahan/Data_Science_Machine_Learning).
 
 ## Tools and Technologies
 - Excel: Data manipulation, visualization, and analysis
