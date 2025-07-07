@@ -30,8 +30,8 @@ Used `ROW_NUMBER()` with a `PARTITION BY` clause to identify duplicate rows base
 ### 3. **Standardizing Text Values**
 
 * Trimmed extra spaces in the `company` column.
-* Standardized values like "Crypto Tech", "Crypto Industry", etc., to just "Crypto".
-* Corrected typos like "United States of America" → "United States".
+* Standardized values in Industry column like "CryptoCurrency", "Crypto Currency", etc., to just "Crypto".
+* Corrected typos like "United States. " → "United States".
 
 ### 4. **Handling Null and Blank Values**
 
