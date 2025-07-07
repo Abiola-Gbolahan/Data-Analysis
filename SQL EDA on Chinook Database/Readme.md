@@ -15,7 +15,7 @@ Using **SQL queries**, I explored various aspects of a music store's database in
 
   > The Chinook database is a sample music store database. It mimics a digital media store with information on artists, albums, media types, customers, employees, and sales.
 
-* **SQL Query File:** [`Chinook_QueryCodes.sql`](https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/SQL%20EDA%20on%20Chinook%20Database/Chinook_QueryCodes.sql)
+* **SQL Query File:** [Chinook_QueryCodes](https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/SQL%20EDA%20on%20Chinook%20Database/Chinook_QueryCodes.sql)
 
   > This file contains all the SQL queries used in this project, each accompanied by a commented question or insight.
 
