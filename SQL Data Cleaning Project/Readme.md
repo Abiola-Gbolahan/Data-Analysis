@@ -55,7 +55,7 @@ Used `ROW_NUMBER()` with a `PARTITION BY` clause to identify duplicate rows base
 
 ## 🔗 Resources
 
-* 📄 [Raw Dataset](#)
+* 📄 [Raw Dataset]([#](https://github.com/Abiola-Gbolahan/Data-Analysis/blob/main/SQL%20Data%20Cleaning%20Project/world_layoffs.csv))
 * 🧼 [Cleaned Dataset](#)
 * 🧾 [Final SQL Cleaning Query](#)
 
